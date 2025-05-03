@@ -42,7 +42,7 @@
 
 ## 📫 Contact
 
-- GitHub: [Ai-Togashi](https://github.com/Ai-Togashi)
+- GitHub: [冨樫あい](https://github.com/Ai-Togashi)
 
 <!---
 Ai-Togashi/Ai-Togashi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
