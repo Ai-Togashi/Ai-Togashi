@@ -1,7 +1,9 @@
 <!-- 背景バナー -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=35&fontAlignY=40&desc=I'm%20Ai%20Togashi%20🐣&descAlignY=65&descAlign=60"/>
 
-- 👋 Hi, I’m @Ai-Togashi
+<div style="border: 1px solid #ccc; padding: 10px; border-radius: 8px; background-color: #f9f9f9;">
+  👋 Hi, I’m <strong>@Ai-Togashi</strong>
+</div>
   
 ### こんにちは、冨樫 あいです 👋
 
